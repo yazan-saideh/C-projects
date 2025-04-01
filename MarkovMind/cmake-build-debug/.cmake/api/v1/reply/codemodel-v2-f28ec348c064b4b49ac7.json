@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex3_Part_A_files_20241204",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3_Part_A_files_20241204::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3_Part_A_files_20241204-Debug-6e4573009f568064a038.json",
+					"name" : "Ex3_Part_A_files_20241204",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/miner/OneDrive/Desktop/C,C++/Ex3 Part A files-20241204/cmake-build-debug",
+		"source" : "/mnt/c/Users/miner/OneDrive/Desktop/C,C++/Ex3 Part A files-20241204"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
