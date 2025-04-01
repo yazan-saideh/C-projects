@@ -1,0 +1,3 @@
+/mnt/c/Users/miner/OneDrive/Desktop/C,C++/ex2/cmake-build-debug/CMakeFiles/ex21.dir
+/mnt/c/Users/miner/OneDrive/Desktop/C,C++/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/miner/OneDrive/Desktop/C,C++/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
